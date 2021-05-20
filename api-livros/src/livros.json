@@ -19,12 +19,5 @@
         "descricao": "Publicado pela primeira vez em 1962, e imortalizado 9 anos depois pelo...",
         "autor": "Anthony Burgess",
         "anoPublicacao": 1962
-    },
-    {
-        "id": 4,
-        "titulo": "Neuromancer",
-        "descricao": "O Céu sobre o porto tinha cor de televisão num canal fora do ar, Consi...",
-        "autor": "William Gibson",
-        "anoPublicacao": 1984
     }
 ]
